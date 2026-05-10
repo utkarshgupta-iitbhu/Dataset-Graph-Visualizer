@@ -8,6 +8,13 @@
 > A powerful desktop data visualization tool built with **Python + Tkinter** that allows you to load, create, analyze, and visualize datasets with ease.
 
 ---
+## 🚀 Installation & Demo
+
+To run the application without setting up a local development environment, you can download the pre-compiled executable:
+
+* **Windows (.exe):** [Download from Google Drive](https://drive.google.com/file/d/1sfL7WvOjH0g_EZsiXdpm_iaT4IhP-iw3/view?usp=drive_link)
+
+---
 
 ## ✨ Features
 
